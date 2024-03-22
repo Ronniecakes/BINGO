@@ -162,7 +162,7 @@ function newNumber2 (maxNumber) {
     }
 
     if (B == true && I==true && N == true && G == true && O == true) {
-     console.log(`BINGOOOOOOO!!!!`);   
+     console.log(`BINGOOOOOOO!!!`);   
      console.table({
         B: BNumber,
         I: INumber,
